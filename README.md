@@ -1,7 +1,7 @@
 
 ## Primeros pasos
 
-Vamos a partir de 0, para poder que cualquier persona pueda seguir esta guía. Es por eso que lo primero que vamos a realizar será generar nuestras llaves privadas (ssh-keys). Lo ideal es crear una por cada cuenta.
+Vamos a partir de cero para que cualquier persona pueda seguir esta guía. Es por eso que lo primero que vamos a realizar será generar nuestras llaves privadas (ssh-keys). Lo ideal es crear una por cada cuenta.
 
 ### 1. Creando nuestras llaves privadas
    
